@@ -206,6 +206,3 @@ export const auth = getAuth(app);
 
 ---
 
-## 📄 Licença
-
-Este projeto foi desenvolvido para fins acadêmicos como parte do curso de Análise e Desenvolvimento de Sistemas da **FIAP**.
